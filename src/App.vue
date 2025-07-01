@@ -1,5 +1,6 @@
 <template>
 <SeccionHeader />
+<SeccionOpenData />
 <SeccionFooter />
 <CustomCursor :config='{ highlighted_tags: [ "a", "button", ".text-res-1", ".circ-met", ".text-effect", ".menu-item" ], 
                             transform_time: ".2s", click_effect_enabled: false }' />
@@ -22,5 +23,6 @@ const quick_replies = ref([
 
 import SeccionFooter from './components/SeccionFooter.vue'
 import SeccionHeader from './components/SeccionHeader.vue';
+import SeccionOpenData from './components/SeccionOpenData.vue';
 </script>
 
