@@ -1,8 +1,8 @@
 <template>
     <div class="h-100vh">
         <div class="row justify-content-center align-items-center mt-5">
-            <div class="col-auto">
-                <h2>Relevamiento de Precios</h2>
+            <div class="col col-md-auto">
+                <h2 class="display-5 display-md-3 text-center mb-4">Relevamiento de Precios</h2>
                 <p>A continuación puede descargar el compilado de precios registrados en 
                     <a href="https://precios.greenborn.com.ar" target="_blank">https://precios.greenborn.com.ar</a></p>
             </div>
