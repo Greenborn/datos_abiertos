@@ -10,33 +10,39 @@
 
         <div class="row justify-content-center align-items-center mt-5">
             <div class="col-auto">
-                <ul>
-                    <li>
-                        <a href="https://drive.google.com/file/d/1iDw_fgHDNLcy34bvemANjWxlWDP_Fw_A/view?usp=drive_link" target="_blank">
-                            Listado Precios - <b>Junio 2025</b> .csv</a>
-                    </li>
-                    <li>
-                        <a href="https://drive.google.com/file/d/1yWaPYoCnWq8vAzN9DDQ7PKkVamfvUY3o/view?usp=drive_link" target="_blank">
-                            Listado Precios - <b>Junio 2025</b> .ods</a>
-                    </li>
-                </ul>
-                
+                <div class="d-flex gap-4 flex-wrap">
+                    <div class="p-2 border rounded text-center bg-light">
+                        <a href="https://drive.google.com/file/d/1iDw_fgHDNLcy34bvemANjWxlWDP_Fw_A/view?usp=drive_link" target="_blank" class="text-decoration-none text-dark">
+                            <img src="/img/csv.svg" alt="CSV" style="width:2em;height:2em;vertical-align:middle;margin-bottom:0.5em;" />
+                            <div>Listado Precios<br><b>Junio 2025</b> .csv</div>
+                        </a>
+                    </div>
+                    <div class="p-2 border rounded text-center bg-light">
+                        <a href="https://drive.google.com/file/d/1yWaPYoCnWq8vAzN9DDQ7PKkVamfvUY3o/view?usp=drive_link" target="_blank" class="text-decoration-none text-dark">
+                            <img src="/img/ods.svg" alt="ODS" style="width:2em;height:2em;vertical-align:middle;margin-bottom:0.5em;" />
+                            <div>Listado Precios<br><b>Junio 2025</b> .ods</div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
 
         <div class="row justify-content-center align-items-center mt-5">
             <div class="col-auto">
-                <ul>
-                    <li>
-                        <a href="https://drive.google.com/file/d/1CS2vp7jf1Y8-bbjzeFREPwkQPS7vjUHv/view?usp=drive_link" target="_blank">
-                            Listado Precios - <b>Año 2024</b> .csv</a>
-                    </li>
-                    <li>
-                        <a href="https://docs.google.com/spreadsheets/d/1D54HucLxTYQthh2c9ueH2Y0kOeoOCzIa/edit?usp=drive_link&ouid=101735906968288029127&rtpof=true&sd=true" target="_blank">
-                            Listado Precios - <b>Año 2024</b>  .ods</a>
-                    </li>
-                </ul>
-                
+                <div class="d-flex gap-4 flex-wrap">
+                    <div class="p-2 border rounded text-center bg-light">
+                        <a href="https://drive.google.com/file/d/1CS2vp7jf1Y8-bbjzeFREPwkQPS7vjUHv/view?usp=drive_link" target="_blank" class="text-decoration-none text-dark">
+                            <img src="/img/csv.svg" alt="CSV" style="width:2em;height:2em;vertical-align:middle;margin-bottom:0.5em;" />
+                            <div>Listado Precios<br><b>Año 2024</b> .csv</div>
+                        </a>
+                    </div>
+                    <div class="p-2 border rounded text-center bg-light">
+                        <a href="https://docs.google.com/spreadsheets/d/1D54HucLxTYQthh2c9ueH2Y0kOeoOCzIa/edit?usp=drive_link&ouid=101735906968288029127&rtpof=true&sd=true" target="_blank" class="text-decoration-none text-dark">
+                            <img src="/img/ods.svg" alt="ODS" style="width:2em;height:2em;vertical-align:middle;margin-bottom:0.5em;" />
+                            <div>Listado Precios<br><b>Año 2024</b> .ods</div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
