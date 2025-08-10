@@ -13,13 +13,13 @@
                 <h4 class="mb-3 text-center">Julio 2025</h4>
                 <div class="d-flex gap-4 flex-wrap">
                     <div class="p-2 border rounded text-center bg-light">
-                        <a href="https://drive.google.com/file/d/1xn2AzLMtTSyjMYh9jVODtCJOXpU4oTtx/view?usp=drive_link" target="_blank" class="text-decoration-none text-dark">
+                        <a href="https://drive.google.com/file/d/1Faf_6iOkyiPWZnM_42ecRtW1ogFDfAz6/view?usp=sharing" target="_blank" class="text-decoration-none text-dark">
                             <img src="/img/csv.svg" alt="CSV" style="width:2em;height:2em;vertical-align:middle;margin-bottom:0.5em;" />
                             <div>Listado Precios<br><b>Julio 2025</b> .csv</div>
                         </a>
                     </div>
                     <div class="p-2 border rounded text-center bg-light">
-                        <a href="https://drive.google.com/file/d/16KjRuOuWzMoUX0pzLJtj7oy6JyANZhBw/view?usp=sharing" target="_blank" class="text-decoration-none text-dark">
+                        <a href="https://drive.google.com/file/d/1YstywP59smq12e7zhg3s7VGkIBRIMTkw/view?usp=sharing" target="_blank" class="text-decoration-none text-dark">
                             <img src="/img/ods.svg" alt="ODS" style="width:2em;height:2em;vertical-align:middle;margin-bottom:0.5em;" />
                             <div>Listado Precios<br><b>Julio 2025</b> .ods</div>
                         </a>
